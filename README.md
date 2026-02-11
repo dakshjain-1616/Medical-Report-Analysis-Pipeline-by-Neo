@@ -8,8 +8,7 @@
 
 > A HIPAA-compliant, production-grade medical imaging analysis system that combines MedSAM segmentation and RadBERT report generation with enterprise-level security for protected health information (PHI).
 
-**Architected by [NEO](https://heyneo.so/)** - An autonomous AI agent specialized in building secure, compliant healthcare AI systems.
-
+**Architected by [NEO](https://heyneo.so/)** - An autonomous ML agent
 ---
 
 ## 🎯 Features
@@ -1071,12 +1070,11 @@ For clinical deployment:
 
 <div align="center">
 
-**Architected with ❤️ by [NEO](https://heyneo.so/) - Specialized in Healthcare AI**
+**Architected with ❤️ by [NEO](https://heyneo.so/) -Autonomous ML agent**
 
 [⭐ Star this repo](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo) • [🐛 Report Bug](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo/issues) • [✨ Request Feature](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo/issues)
 
 ---
 
-**Transforming Medical Imaging with Secure, Compliant AI**
 
 </div>
